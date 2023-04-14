@@ -1,10 +1,8 @@
-### Hi there 👋, Al Avy
-#### I am Frontend Developer
-![I am Frontend Developer](https://drive.google.com/file/d/1-RYy3OGCRa6jTZmRkphOhsLtmU4-rH_q/view?usp=share_link)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://i.ibb.co/CwkHQZk/new-banner.png)
 
-I'm Al Avy from Bangladesh, and I do Frontend Development. I really enjoy leering languages and frameworks like React, JS, Node.  
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+Skills: VUE JS / REACT / JS / HTML / CSS
 
